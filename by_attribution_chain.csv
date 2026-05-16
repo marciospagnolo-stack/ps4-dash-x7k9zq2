@@ -1,0 +1,431 @@
+source,utm_campaign,utm_content,leads,wins,win_rate_pct,lost,lost_pct,em_aberto,aberto_pct,revenue,revenue_per_lead,last_lead_date,days_since_last_lead,last_won_date,days_since_last_won
+AI_REFERRALS,(sem utm_campaign),(sem utm_content),2,1,50.0,1,50.0,0,0.0,10000.0,5000.0,2025-05-13,367,2025-06-30,319
+AI_REFERRALS,pmax,(sem utm_content),1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-11-19,177,,
+DIRECT_TRAFFIC,(sem utm_campaign),(sem utm_content),83,19,22.9,60,72.3,4,4.8,166500.0,2006.02,2026-05-04,11,2026-06-03,-19
+DIRECT_TRAFFIC,pmax,(sem utm_content),35,5,14.3,28,80.0,2,5.7,53400.0,1525.71,2026-05-07,8,2026-04-23,22
+DIRECT_TRAFFIC,institucional_exata,wordpress,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-11-05,191,,
+DIRECT_TRAFFIC,lead nativo | misto | b2c - 1,(sem utm_content),1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-01-13,122,,
+DIRECT_TRAFFIC,blog,cta-footer,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-01-14,121,,
+DIRECT_TRAFFIC,b2c palestrantes | lead nativo,(sem utm_content),1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-02-25,79,,
+DIRECT_TRAFFIC,⚫ LP | TBW LeadScore | Melhores Criativos,H027,1,0,0.0,0,0.0,1,100.0,0.0,0.0,2026-04-13,32,,
+DIRECT_TRAFFIC,lead_nativo_tbw,form_condicional,1,0,0.0,0,0.0,1,100.0,0.0,0.0,2026-05-14,1,,
+OFFLINE,Lead Nativo | Misto | B2C - 2,AD22 [IU] B2C,1,1,100.0,0,0.0,0,0.0,15000.0,15000.0,2025-01-31,469,2025-02-14,455
+OFFLINE,Lead Nativo | Misto | B2C - 2,AD32 [IU] B2C,1,1,100.0,0,0.0,0,0.0,15000.0,15000.0,2025-02-08,461,2025-02-17,452
+OFFLINE,Lead Nativo | Misto | B2C | Melhores Criativos,AD49 [IU] B2C,1,1,100.0,0,0.0,0,0.0,15000.0,15000.0,2025-05-09,371,2025-06-12,337
+OFFLINE,search_the_best_week,ad2_topo,1,1,100.0,0,0.0,0,0.0,14000.0,14000.0,2025-01-20,480,2025-02-24,445
+OFFLINE,120243052766710104,120243106651700104,1,1,100.0,0,0.0,0,0.0,10500.0,10500.0,2026-04-16,29,2026-04-24,21
+OFFLINE,Lead Nativo | Misto | B2C - 2,AD60 [VD] B2C,2,2,100.0,0,0.0,0,0.0,20526.32,10263.16,2025-05-22,359,2025-06-30,319
+OFFLINE,Live-Cases-prorrogada,2408 - V04 - 01,1,1,100.0,0,0.0,0,0.0,10000.0,10000.0,2025-04-30,380,2025-10-14,213
+OFFLINE,pmax,G008,1,1,100.0,0,0.0,0,0.0,10000.0,10000.0,2026-03-11,65,2026-03-19,57
+OFFLINE,120242827865180104,120242837216230104,1,1,100.0,0,0.0,0,0.0,10000.0,10000.0,2026-03-18,58,2026-03-30,46
+OFFLINE,🔵 LP TBW | Melhores Criativos (Nova),G003,1,1,100.0,0,0.0,0,0.0,10000.0,10000.0,2026-03-27,49,2026-04-12,33
+OFFLINE,lucas-riza,story-150426,1,1,100.0,0,0.0,0,0.0,10000.0,10000.0,2026-04-16,29,2026-04-24,21
+OFFLINE,Lead Nativo | Misto | B2C | Melhores Criativos,AD60 [VD] B2C,2,2,100.0,0,0.0,0,0.0,16700.0,8350.0,2025-05-25,355,2025-06-09,340
+OFFLINE,Lead Nativo | Misto | B2C | Melhores Criativos,AD03 [IU] Sua palestra inspira [V1],2,1,50.0,1,50.0,0,0.0,15000.0,7500.0,2025-04-30,380,2025-03-27,414
+OFFLINE,Lead Nativo | Frio | The Best Week | Fábrica de Criativos — ADV+,AD11 [IU] Palestrante seu nome merece crescer,2,1,50.0,1,50.0,0,0.0,15000.0,7500.0,2025-04-30,380,2025-06-23,326
+OFFLINE,pesquisa_the_best_week,register,2,1,50.0,1,50.0,0,0.0,15000.0,7500.0,2025-05-15,365,2025-05-15,365
+OFFLINE,TBS-2025,(sem utm_content),1,1,100.0,0,0.0,0,0.0,7500.0,7500.0,2025-10-14,213,2025-10-23,204
+OFFLINE,120243052766710104,120243200831480104,2,1,50.0,0,0.0,1,50.0,15000.0,7500.0,2026-04-07,38,2026-04-08,37
+OFFLINE,palestrante_dinamico_nova,palestrante_dinamico_nova,5,3,60.0,2,40.0,0,0.0,30247.0,6049.4,2025-04-30,380,2026-04-06,39
+OFFLINE,Live-Cases-prorrogada,"FIRSTNAME , Seu resultado de 7 milhões com palestras",2,1,50.0,1,50.0,0,0.0,10000.0,5000.0,2025-04-30,380,2025-01-31,469
+OFFLINE,palestrante_geral_teste,site,6,3,50.0,3,50.0,0,0.0,30000.0,5000.0,2025-12-11,155,2025-12-19,147
+OFFLINE,profissionais_sa_antiga,palestra_limite_orcamento_typeform,1,1,100.0,0,0.0,0,0.0,4997.0,4997.0,2025-04-17,393,2025-04-17,393
+OFFLINE,institucional,wordpress,1,1,100.0,0,0.0,0,0.0,4997.0,4997.0,2025-05-12,368,2025-05-12,368
+OFFLINE,b2c palestrantes | lead nativo,(sem utm_content),2,1,50.0,1,50.0,0,0.0,9000.0,4500.0,2026-02-18,86,2026-02-23,81
+OFFLINE,b2c_mensagem,AD07 - TBW,3,1,33.3,2,66.7,0,0.0,13000.0,4333.33,2026-03-13,63,2025-05-22,358
+OFFLINE,pmax,(sem utm_content),38,18,47.4,18,47.4,2,5.3,162000.0,4263.16,2026-05-12,3,2026-06-03,-19
+OFFLINE,link-tree,bio,8,3,37.5,5,62.5,0,0.0,33000.0,4125.0,2025-04-30,380,2025-12-29,137
+OFFLINE,palestrantes_geral,contratar_palestrante,11,3,27.3,8,72.7,0,0.0,44500.0,4045.45,2025-04-30,380,2025-04-14,396
+OFFLINE,the_best_week_mensagem,(sem utm_content),3,1,33.3,2,66.7,0,0.0,12000.0,4000.0,2025-04-30,380,2025-02-25,444
+OFFLINE,lead_nativo_tbw,form_condicional,3,1,33.3,1,33.3,1,33.3,12000.0,4000.0,2026-05-11,4,2026-04-30,15
+OFFLINE,institucional,(sem utm_content),3,1,33.3,2,66.7,0,0.0,10000.0,3333.33,2025-04-30,380,2025-08-25,263
+OFFLINE,Lead Nativo | Misto | B2C - 2,AD27 [IU] B2C,1,1,100.0,0,0.0,0,0.0,2997.0,2997.0,2025-04-30,380,2026-03-18,58
+OFFLINE,Lead Nativo | Frio | The Best Week - Único [AD02] — MG,AD02 [IU] The Best Week,6,1,16.7,5,83.3,0,0.0,15000.0,2500.0,2025-04-30,380,2025-02-25,444
+OFFLINE,Lead Nativo | Misto | B2C | Melhores Criativos,AD57 [IU] B2C,2,1,50.0,1,50.0,0,0.0,4997.0,2498.5,2025-05-19,361,2025-04-29,381
+OFFLINE,institucional_exata,wordpress,5,1,20.0,4,80.0,0,0.0,10000.0,2000.0,2025-10-24,204,2025-10-09,218
+OFFLINE,(sem utm_campaign),(sem utm_content),866,185,21.4,638,73.7,43,5.0,1689039.15,1950.39,2026-05-14,1,2026-06-05,-21
+OFFLINE,b2c_mensagem,AD14 - TBW Online,2,1,50.0,1,50.0,0,0.0,3332.0,1666.0,2025-05-24,356,2025-05-26,354
+OFFLINE,the-best-weekend,link-bio,8,2,25.0,5,62.5,1,12.5,11997.0,1499.62,2026-05-04,11,2026-05-08,7
+OFFLINE,Lead Nativo | Frio | The Best Week - Único [AD02] — MG,AD02 [CS] The Best Week,13,2,15.4,11,84.6,0,0.0,14997.0,1153.62,2025-04-30,380,2025-02-14,455
+OFFLINE,Lead Nativo | Frio | The Best Week - Único [AD02] — SP,AD02 [CS] The Best Week,19,1,5.3,18,94.7,0,0.0,8000.0,421.05,2025-04-30,380,2025-11-26,170
+OFFLINE,Lead Nativo | Frio | The Best Week - Único [AD02],AD02 [CS] The Best Week,146,3,2.1,143,97.9,0,0.0,49997.0,342.45,2025-04-30,380,2025-02-18,451
+OFFLINE,Lead Nativo | Frio | The Best Week | Fábrica de Criativos,AD07 [IU] Descubra como contar historias [V1] Foto Phil,55,1,1.8,53,96.4,1,1.8,15000.0,272.73,2025-04-30,380,2025-02-21,448
+OFFLINE,b2c_mensagem,(sem utm_content),5,0,0.0,5,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,[02\/09\/24] [CADASTRO] [TBSB] [ABO],02/05/2408,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Live-Cases-prorrogada,(sem utm_content),1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Lead Nativo | Misto | The Best Week | Melhores Criativos,AD06 [IU] Aprenda a se posicionar como uma autoridade [V1],2,0,0.0,2,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Lead Nativo | Frio | The Best Week | Fábrica de Criativos,AD11 [IU] Palestrante seu nome merece crescer,3,0,0.0,3,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Lead Nativo | Frio | The Best Week,AD02 [CS] The Best Week,33,0,0.0,33,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Lead Nativo | Frio | The Best Week (Melhores Criativos) - Único [AD01],AD01 [IU] The Best Week,203,0,0.0,203,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Lead Nativo | Frio | The Best Week | Fábrica de Criativos,AD05 [IU] Já imaginou uma plateia emocionada [V1],11,0,0.0,11,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Lead Nativo | Frio | The Best Week - Único [AD02] — SP,AD02 [IU] The Best Week,9,0,0.0,9,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Lead Nativo | Frio | The Best Week | Fábrica de Criativos — ADV+,AD03 [IU] Sua palestra inspira [V1],1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,? The Best | Lead Nativo | Morno | Criativos Remarketing,AD03 [VD] estatico,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Lead Nativo | Frio | The Best Week - Único [AD02],AD02 [IU] The Best Week,40,0,0.0,40,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,? The Best | Lead Nativo | Frio | Criativos Remarketing,AD02 [VD] PraVocê,10,0,0.0,10,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Lead Nativo | Misto | The Best Week | Fábrica de Criativos,(sem utm_content),8,0,0.0,8,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Pmax_fundo_geral,branding_geral,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Lead Nativo | Frio | The Best Week (Melhores Criativos),AD01 [IU] The Best Week,140,0,0.0,140,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Lead Nativo | Frio | The Best Week,AD01 [IU] The Best Week,41,0,0.0,41,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,pmax,banner-quero-guia,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Lead Nativo | Misto | B2C | Melhores Criativos,AD12 [IU] Melhores Palcos do Mundo,2,0,0.0,2,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Lead Nativo | Frio | The Best Week - Carrossel [FEED],AD02 [CS] The Best Week,23,0,0.0,23,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,? The Best | Lead Nativo | Morno | Criativos Remarketing,AD02 [VD] PraVocê,3,0,0.0,3,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Lead Nativo | Frio | The Best Week | Fábrica de Criativos,AD06 [IU] Aprenda a se posicionar como uma autoridade [V1],2,0,0.0,2,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Lead Nativo | Misto | The Best Week | Fábrica de Criativos,AD11 [IU] Palestrante seu nome merece crescer,2,0,0.0,2,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Conversão LP | Misto | The Best Week,AD04 [IU] A semana que vai mudar seu jogo de palestras [V1],4,0,0.0,4,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Lead Nativo | Misto | B2C - 2,AD28 [IU] B2C,2,0,0.0,2,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,ebook-posicionamento-marca,banner-quero-guia,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,profissionais_sa_antiga,palestra_geral,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Lead Nativo | Frio | The Best Week - Único [AD02] — RS,AD02 [CS] The Best Week,5,0,0.0,5,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Lead Nativo | Frio | The Best Week - Único [AD02] — RS,AD02 [IU] The Best Week,2,0,0.0,2,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Lead Nativo | Frio | The Best Week - Único [AD02] — RJ,AD02 [CS] The Best Week,7,0,0.0,7,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Lead Nativo | Misto | B2C - 2,AD25 [IU] B2C,2,0,0.0,2,100.0,0,0.0,0.0,0.0,2026-02-20,84,,
+OFFLINE,Lead Nativo | Frio | The Best Week | Fábrica de Criativos,AD18 [IU] Você já é bom [V2] Foto Mulher,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,search_lideranca,ad1_treinamento,4,0,0.0,4,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,? The Best | Lead Nativo | Frio | Criativos Remarketing,AD03 [VD] estatico,2,0,0.0,2,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Lead Nativo | Misto | The Best Week - 2,AD25 [IU] B2C,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Lead Nativo | Misto | The Best Week | Fábrica de Criativos,AD03 [IU] Sua palestra inspira [V1],2,0,0.0,2,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Lead Nativo | Frio | The Best Week - Único [AD02] — RJ,AD02 [IU] The Best Week,5,0,0.0,5,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Lead Nativo | Misto | The Best Week | Melhores Criativos,(sem utm_content),3,0,0.0,3,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Lead Nativo | Misto | The Best Week | Fábrica de Criativos,AD18 [IU] Você já é bom [V2] Foto Mulher,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,pmax,AD02 [CS] The Best Week,3,0,0.0,3,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,pmax,AD01 [IU] The Best Week,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Lead Nativo | Misto | The Best Week | Melhores Criativos,AD05 [IU] Já imaginou uma plateia emocionada [V1],1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Lead Nativo | Misto | The Best Week | Melhores Criativos,AD01 [IU] The Best Week,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Conversão LP | Misto | The Best Week | Melhores Criativos,AD06 [IU] Aprenda a se posicionar como uma autoridade [V1],2,0,0.0,2,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Conversão LP | Misto | The Best Week,AD05 [IU] Já imaginou uma plateia emocionada [V1],1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Conversão LP | Misto | The Best Week,AD07 [IU] Descubra como contar historias [V1] Foto Phil,2,0,0.0,2,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Lead Nativo | Frio | The Best Week | Fábrica de Criativos,AD09 [IU] Descubra como cobrar o  cachê [V1] Foto Marcio,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Conversão LP | Misto | The Best Week,AD03 [IU] Sua palestra inspira [V1],3,0,0.0,3,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Conversão LP | Misto | The Best Week,AD06 [IU] Aprenda a se posicionar como uma autoridade [V1],4,0,0.0,4,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Lead Nativo | Frio | The Best Week | Fábrica de Criativos — ADV+,AD07 [IU] Descubra como contar historias [V1] Foto Phil,2,0,0.0,2,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Lead Nativo | Frio | The Best Week | Fábrica de Criativos — ADV+,AD06 [IU] Aprenda a se posicionar como uma autoridade [V1],11,0,0.0,11,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Lead Nativo | Frio | The Best Week | Fábrica de Criativos — ADV+,AD14 [IU] Cansado de estra a sombra de grandes nomes,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Lead Nativo | Frio | The Best Week | Fábrica de Criativos — ADV+,AD04 [IU] A semana que vai mudar seu jogo de palestras [V1],1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Conversão LP | Misto | The Best Week,AD01 [IU] The Best Week,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,search_lideranca,ad1_curso,2,0,0.0,2,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,? The Best | Lead Nativo | Quente | Criativos Remarketing,AD03 [VD] estatico,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,? The Best | Lead Nativo | Quente | Criativos Remarketing,AD01 [VD] essaé,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Live-Cases-prorrogada,story,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Lead Nativo | Misto | B2C - 1,AD42 [IU] B2C,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Lead Nativo | Misto | B2C | Melhores Criativos,AD33 [IU] B2C,2,0,0.0,2,100.0,0,0.0,0.0,0.0,2025-05-11,369,,
+OFFLINE,Lead Nativo | Misto | B2C | Melhores Criativos,AD29 [IU] B2C,2,0,0.0,2,100.0,0,0.0,0.0,0.0,2026-04-27,19,,
+OFFLINE,Lead Nativo | Misto | B2C - 1,AD20 [IU] B2C,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,pmax,AD02 [IU] The Best Week,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Lead Nativo | Misto | B2C | Melhores Criativos,AD01 [IU] The Best Week,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Lead Nativo | Misto | B2C | Melhores Criativos,AD06 [IU] Aprenda a se posicionar como uma autoridade [V1],2,0,0.0,2,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Tráfego | Frio | B2C,AD38 [IU] B2C,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Lead Nativo | Misto | B2C - 1,AD18 [IU] Você já é bom [V2] Foto Mulher,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Lead Nativo | Misto | B2C - 1,AD12 [IU] Melhores Palcos do Mundo,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,Lead Nativo | Frio | The Best Week - Único [AD02],AD05 [IU] Já imaginou uma plateia emocionada [V1],1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+OFFLINE,b2c_mensagem,AD08 - TBW,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-05-12,368,,
+OFFLINE,Lead Nativo | Misto | B2C - 1,AD71 [IU] B2C,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-05-17,363,,
+OFFLINE,Lead Nativo | Misto | B2C - 2,AD47 [IU] B2C,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-05-18,362,,
+OFFLINE,profissionais_sa_antiga,pessoa_mario_sergio_cortella,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-05-19,361,,
+OFFLINE,search_institucional,ad1,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-05-19,361,,
+OFFLINE,Core | Lead | Conversão | Frio | LP Geral,AD02 [VD] Core - Limite Orçamento,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-05-19,361,,
+OFFLINE,b2c_mensagem,AD09 - TBW,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-05-22,358,,
+OFFLINE,linktree-talk_site___bio,psa-divulgacao,2,0,0.0,2,100.0,0,0.0,0.0,0.0,2025-09-22,235,,
+OFFLINE,Lead Nativo | Misto | B2C - 2,AD94 [VD] B2C,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-06-04,345,,
+OFFLINE,Conversão LP | The Best Speaker | Página Cadastro,AD19 [IU] The Best Speaker,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-09-15,242,,
+OFFLINE,pmax,AD06 [VD] The Best Day,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-10-08,219,,
+OFFLINE,pmax,site,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-10-27,200,,
+OFFLINE,Conversão LP | The Best Speaker | Página Cadastro,AD29 [IU] The Best Speaker,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-11-05,191,,
+OFFLINE,mensagens_live,(sem utm_content),2,0,0.0,2,100.0,0,0.0,0.0,0.0,2025-12-08,158,,
+OFFLINE,linkbio-tbs_tbs___bio,psa-divulgacao,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-12-02,164,,
+OFFLINE,palestras-proximo-ano,story-091225,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-12-10,156,,
+OFFLINE,lead_nativo,qualificado,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-01-02,133,,
+OFFLINE,369521023,(sem utm_content),1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-01-06,129,,
+OFFLINE,60847242,(sem utm_content),1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-01-08,127,,
+OFFLINE,61388131,(sem utm_content),9,0,0.0,9,100.0,0,0.0,0.0,0.0,2026-04-22,23,,
+OFFLINE,61283834,(sem utm_content),4,0,0.0,4,100.0,0,0.0,0.0,0.0,2026-03-09,67,,
+OFFLINE,lead nativo | misto | b2c - 1,(sem utm_content),2,0,0.0,2,100.0,0,0.0,0.0,0.0,2026-01-22,113,,
+OFFLINE,palestrantes,(sem utm_content),2,0,0.0,2,100.0,0,0.0,0.0,0.0,2026-02-23,81,,
+OFFLINE,lead nativo | misto | b2c - executivos,(sem utm_content),1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-01-22,113,,
+OFFLINE,cargos palestrantes (novo form),(sem utm_content),2,0,0.0,2,100.0,0,0.0,0.0,0.0,2026-03-09,67,,
+OFFLINE,lead nativo | the best speaker,(sem utm_content),2,0,0.0,2,100.0,0,0.0,0.0,0.0,2026-02-02,102,,
+OFFLINE,60847340,(sem utm_content),1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-02-02,102,,
+OFFLINE,11429448,(sem utm_content),6,0,0.0,5,83.3,1,16.7,0.0,0.0,2026-03-04,72,,
+OFFLINE,236651,(sem utm_content),3,0,0.0,3,100.0,0,0.0,0.0,0.0,2026-02-27,77,,
+OFFLINE,psa profissionais sa,(sem utm_content),1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-02-19,85,,
+OFFLINE,Conversão LP | The Best Speaker | Estados,AD19 [IU] The Best Speaker,1,0,0.0,0,0.0,1,100.0,0.0,0.0,2026-02-27,77,,
+OFFLINE,lead nativo | misto | b2c | melhores criativos,(sem utm_content),4,0,0.0,4,100.0,0,0.0,0.0,0.0,2026-04-01,44,,
+OFFLINE,69100626,(sem utm_content),1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-03-07,69,,
+OFFLINE,🟠 Lead Nativo | Criativos Validados (Nova),G003,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-03-09,67,,
+OFFLINE,🔵 LP TBW | Criativos Validados (Nova),G003,1,0,0.0,0,0.0,1,100.0,0.0,0.0,2026-03-10,66,,
+OFFLINE,120242827865180104,120242836489080104,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-03-10,66,,
+OFFLINE,120242827865180104,120242838093380104,1,0,0.0,0,0.0,1,100.0,0.0,0.0,2026-03-11,65,,
+OFFLINE,🔵 LP TBW | Criativos Validados (Nova),G002,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-03-16,60,,
+OFFLINE,🔵 LP TBW | Criativos Validados (Nova),G008,2,0,0.0,2,100.0,0,0.0,0.0,0.0,2026-04-08,37,,
+OFFLINE,120243052766710104,120243474213870104,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-03-23,53,,
+OFFLINE,120243052766710104,120243374184160104,1,0,0.0,0,0.0,1,100.0,0.0,0.0,2026-03-23,53,,
+OFFLINE,120242827865180104,120242835086210104,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-04-01,44,,
+OFFLINE,comofuncionacuradoriapsa,story-260825,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-04-01,44,,
+OFFLINE,120242827865180104,120242837158710104,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-04-01,44,,
+OFFLINE,120242827865180104,120242837158730104,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-04-06,39,,
+OFFLINE,🔵 LP TBW | Melhores Criativos (Nova),G007,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-04-08,37,,
+OFFLINE,🔵 LP TBW | Melhores Criativos (Nova),G023,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-04-08,37,,
+OFFLINE,🟣lead nativo | tbw leadscore | melhores criativos,(sem utm_content),1,0,0.0,0,0.0,1,100.0,0.0,0.0,2026-04-10,35,,
+OFFLINE,⚫ LP | TBW LeadScore,H038,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-04-14,31,,
+OFFLINE,geraldo rufino palestra,(sem utm_content),1,0,0.0,0,0.0,1,100.0,0.0,0.0,2026-04-27,19,,
+OFFLINE,Lead Nativo | Misto | B2C - 1,(sem utm_content),1,0,0.0,0,0.0,1,100.0,0.0,0.0,2026-04-28,17,,
+OFFLINE,lead_nativo,lp,1,0,0.0,0,0.0,1,100.0,0.0,0.0,2026-05-13,2,,
+ORGANIC_SEARCH,pmax,(sem utm_content),2,2,100.0,0,0.0,0,0.0,7997.0,3998.5,2025-11-27,169,2026-04-15,30
+ORGANIC_SEARCH,GOOGLE,(sem utm_content),5,1,20.0,3,60.0,1,20.0,12800.0,2560.0,2026-03-23,53,2026-03-12,64
+ORGANIC_SEARCH,(sem utm_campaign),(sem utm_content),19,3,15.8,14,73.7,2,10.5,39000.0,2052.63,2026-04-29,16,2026-05-06,9
+ORGANIC_SEARCH,institucional_exata,wordpress,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-08-17,271,,
+ORGANIC_SEARCH,blog / organic,(sem utm_content),1,0,0.0,0,0.0,1,100.0,0.0,0.0,2026-02-20,84,,
+OTHER_CAMPAIGNS,instagram-psa / organico,(sem utm_content),2,1,50.0,1,50.0,0,0.0,15000.0,7500.0,2026-04-17,28,2026-05-05,10
+OTHER_CAMPAIGNS,(sem utm_campaign),(sem utm_content),37,5,13.5,32,86.5,0,0.0,36297.0,981.0,2026-05-11,4,2026-06-10,-26
+OTHER_CAMPAIGNS,linktree-talk_site___bio,psa-divulgacao,9,0,0.0,8,88.9,1,11.1,0.0,0.0,2026-03-24,52,,
+OTHER_CAMPAIGNS,link-bio-talk_thebestday___bio,psa-divulgacao,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-08-19,269,,
+OTHER_CAMPAIGNS,the-best-weekend,link-bio,5,0,0.0,5,100.0,0,0.0,0.0,0.0,2025-12-13,153,,
+OTHER_CAMPAIGNS,Lead Nativo | Misto | B2C | Melhores Criativos,AD94 [VD] B2C,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-10-17,210,,
+OTHER_CAMPAIGNS,pmax,(sem utm_content),1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-10-22,205,,
+OTHER_CAMPAIGNS,lead_nativo,qualificado,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-12-02,164,,
+OTHER_CAMPAIGNS,pmax,qualificado,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-12-10,156,,
+OTHER_CAMPAIGNS,fundo_funil,(sem utm_content),1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-01-15,120,,
+OTHER_CAMPAIGNS,meta / social,(sem utm_content),1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-01-23,112,,
+OTHER_CAMPAIGNS,meta / remarketing,(sem utm_content),1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-03-09,67,,
+OTHER_CAMPAIGNS,⚫ LP | TBW LeadScore | Melhores Criativos,H036,1,0,0.0,0,0.0,1,100.0,0.0,0.0,2026-05-13,2,,
+PAID_SEARCH,pmax,(sem utm_content),3,1,33.3,1,33.3,1,33.3,15000.0,5000.0,2026-04-23,22,2025-07-16,304
+PAID_SEARCH,institucional_exata,wordpress,21,7,33.3,14,66.7,0,0.0,61400.0,2923.81,2025-12-10,156,2025-12-19,147
+PAID_SEARCH,(sem utm_campaign),(sem utm_content),37,9,24.3,28,75.7,0,0.0,81497.0,2202.62,2026-05-04,11,2026-06-03,-19
+PAID_SEARCH,pmax,site,7,1,14.3,5,71.4,1,14.3,9000.0,1285.71,2026-04-27,19,2025-12-03,163
+PAID_SEARCH,palestrante_geral_teste,site,12,1,8.3,11,91.7,0,0.0,12000.0,1000.0,2026-04-06,39,2025-07-25,294
+PAID_SEARCH,institucional,wordpress,2,0,0.0,2,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SEARCH,palestrante_geral,lp_palestrante_ideal,13,0,0.0,13,100.0,0,0.0,0.0,0.0,2025-05-22,358,,
+PAID_SEARCH,institucional_ampla,wordpress,2,0,0.0,2,100.0,0,0.0,0.0,0.0,2025-08-09,279,,
+PAID_SEARCH,palestrante_BR_teste,site,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-09-04,254,,
+PAID_SEARCH,palestrante_dinamico_nova,palestrante_dinamico_nova,2,0,0.0,2,100.0,0,0.0,0.0,0.0,2025-12-04,162,,
+PAID_SEARCH,profissionais_monjacoen,pagina_monjacoen,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-12-01,165,,
+PAID_SEARCH,[BIBI] [SEARCH] [GENÉRICA] Palestrante/ Palestra - Geral - SUL e SUDESTE,site,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-03-10,66,,
+PAID_SEARCH,institucional_exata,site,3,0,0.0,0,0.0,3,100.0,0.0,0.0,2026-04-27,18,,
+PAID_SEARCH,profissionais_rufino,pagina_rufino,1,0,0.0,0,0.0,1,100.0,0.0,0.0,2026-04-16,29,,
+PAID_SEARCH,palestrante_geral_antiga,site,1,0,0.0,0,0.0,1,100.0,0.0,0.0,2026-05-11,4,,
+PAID_SOCIAL,Lead Nativo | Misto | B2C | Melhores Criativos,AE101 [IU] B2C,1,1,100.0,0,0.0,0,0.0,15800.0,15800.0,2025-09-28,229,2025-10-03,224
+PAID_SOCIAL,Lead Nativo | Misto | B2C | Melhores Criativos,AD02 [IU] The Best Week,1,1,100.0,0,0.0,0,0.0,15000.0,15000.0,2025-02-10,459,2025-02-18,451
+PAID_SOCIAL,Lead Nativo | Misto | B2C - 1,AD42 [IU] B2C,1,1,100.0,0,0.0,0,0.0,15000.0,15000.0,2025-04-30,380,2025-10-30,197
+PAID_SOCIAL,120242827865180104,120242836840260104,1,1,100.0,0,0.0,0,0.0,15000.0,15000.0,2026-03-16,60,2026-03-23,53
+PAID_SOCIAL,120242827865180104,120242837216080104,1,1,100.0,0,0.0,0,0.0,12000.0,12000.0,2026-04-08,37,2026-04-10,35
+PAID_SOCIAL,competência palestra - teste investimento 2,(sem utm_content),1,1,100.0,0,0.0,0,0.0,11000.0,11000.0,2026-01-07,128,2026-01-08,127
+PAID_SOCIAL,pmax,AD47 [IU] B2C,1,1,100.0,0,0.0,0,0.0,10000.0,10000.0,2025-04-30,380,2025-09-25,232
+PAID_SOCIAL,Lead Nativo | Misto | B2C - 2,AD59 [VD] B2C,1,1,100.0,0,0.0,0,0.0,10000.0,10000.0,2025-04-30,380,2025-11-14,182
+PAID_SOCIAL,pmax,AD57 [IU] B2C,1,1,100.0,0,0.0,0,0.0,10000.0,10000.0,2025-05-15,365,2025-09-23,234
+PAID_SOCIAL,Leads Nativo | Instagram Dado Schneider,AD14 [VD] Dado,1,1,100.0,0,0.0,0,0.0,10000.0,10000.0,2025-05-19,361,2026-01-08,127
+PAID_SOCIAL,login.profissionaissa.com.br/,(sem utm_content),1,1,100.0,0,0.0,0,0.0,10000.0,10000.0,2026-01-14,121,2026-01-16,119
+PAID_SOCIAL,🔵 LP TBW | Criativos Validados (Nova),G007,1,1,100.0,0,0.0,0,0.0,10000.0,10000.0,2026-03-23,53,2026-03-27,49
+PAID_SOCIAL,⚫ LP | TBW LeadScore | Melhores Criativos,H027,1,1,100.0,0,0.0,0,0.0,10000.0,10000.0,2026-04-15,30,2026-04-20,25
+PAID_SOCIAL,cargos palestrantes (novo form),AE140 [VD] B2C,1,1,100.0,0,0.0,0,0.0,9000.0,9000.0,2026-01-29,106,2026-02-11,93
+PAID_SOCIAL,Lead Nativo | Misto | B2C - 1,AD56 [IU] B2C,3,2,66.7,1,33.3,0,0.0,23000.0,7666.67,2025-04-30,380,2025-05-11,369
+PAID_SOCIAL,pmax,AD03 [IU] Sua palestra inspira [V1],1,1,100.0,0,0.0,0,0.0,7000.0,7000.0,2026-02-06,98,2026-02-24,80
+PAID_SOCIAL,⚫ LP | TBW LeadScore,H003,2,1,50.0,1,50.0,0,0.0,13000.0,6500.0,2026-04-14,31,2026-04-13,32
+PAID_SOCIAL,linktree-talk_site___bio,psa-divulgacao,4,2,50.0,2,50.0,0,0.0,23600.0,5900.0,2026-03-19,57,2026-03-25,51
+PAID_SOCIAL,120242827865180104,120242837216280104,2,1,50.0,1,50.0,0,0.0,10000.0,5000.0,2026-03-12,64,2026-03-18,58
+PAID_SOCIAL,pmax,AD11 - TBW,1,1,100.0,0,0.0,0,0.0,4997.0,4997.0,2025-05-12,368,2025-05-19,361
+PAID_SOCIAL,pmax,AD05 - TBW,1,1,100.0,0,0.0,0,0.0,4747.0,4747.0,2025-04-20,390,2025-04-24,386
+PAID_SOCIAL,Lead Nativo | Misto | B2C | Melhores Criativos,AD49 [IU] B2C,2,2,100.0,0,0.0,0,0.0,9000.0,4500.0,2025-05-25,355,2025-05-28,352
+PAID_SOCIAL,Lead Nativo | Misto | B2C | Melhores Criativos,AD94 [VD] B2C,1,1,100.0,0,0.0,0,0.0,4500.0,4500.0,2025-05-29,351,2025-09-23,234
+PAID_SOCIAL,pmax,(sem utm_content),30,12,40.0,18,60.0,0,0.0,122397.0,4079.9,2026-04-13,32,2026-03-26,50
+PAID_SOCIAL,lead_nativo,qualificado,4,1,25.0,3,75.0,0,0.0,15000.0,3750.0,2026-02-18,86,2026-01-20,115
+PAID_SOCIAL,🔵 LP TBW | Teste de Criativos (Nova),G033,3,1,33.3,2,66.7,0,0.0,11000.0,3666.67,2026-04-01,44,2026-04-14,31
+PAID_SOCIAL,🔵 LP TBW | Melhores Criativos (Nova),G003,7,2,28.6,3,42.9,2,28.6,24000.0,3428.57,2026-04-10,35,2026-04-02,43
+PAID_SOCIAL,Lead Nativo | Misto | B2C | Melhores Criativos,AE111 [IU] B2C,3,1,33.3,1,33.3,1,33.3,10000.0,3333.33,2026-03-03,73,2026-03-06,70
+PAID_SOCIAL,lead nativo | misto | b2c - 1,(sem utm_content),6,2,33.3,4,66.7,0,0.0,20000.0,3333.33,2026-03-19,57,2026-04-16,29
+PAID_SOCIAL,b2c_mensagem,(sem utm_content),17,4,23.5,13,76.5,0,0.0,44000.0,2588.24,2026-05-08,7,2026-01-15,120
+PAID_SOCIAL,pmax,AD08 - TBW,2,1,50.0,1,50.0,0,0.0,5000.0,2500.0,2025-05-25,355,2025-05-29,351
+PAID_SOCIAL,b2c_mensagem,AD04 - TBW Online,6,2,33.3,4,66.7,0,0.0,14000.0,2333.33,2025-05-19,361,2025-06-24,325
+PAID_SOCIAL,Lead Nativo | Misto | B2C | Melhores Criativos,AD12 [IU] Melhores Palcos do Mundo,5,1,20.0,4,80.0,0,0.0,10000.0,2000.0,2025-04-30,380,2025-06-25,324
+PAID_SOCIAL,120242827865180104,120242837158710104,1,1,100.0,0,0.0,0,0.0,1997.0,1997.0,2026-04-01,44,2026-04-08,37
+PAID_SOCIAL,b2c_mensagem,AD11 - TBW,15,3,20.0,11,73.3,1,6.7,29247.0,1949.8,2026-03-10,66,2025-09-25,232
+PAID_SOCIAL,the-best-weekend,link-bio,11,3,27.3,4,36.4,4,36.4,20997.0,1908.82,2026-05-12,3,2026-04-02,43
+PAID_SOCIAL,Lead Nativo | Misto | B2C | Melhores Criativos,AD57 [IU] B2C,29,5,17.2,24,82.8,0,0.0,53500.0,1844.83,2025-05-18,362,2025-09-29,228
+PAID_SOCIAL,lal qualificados b2c,(sem utm_content),6,1,16.7,5,83.3,0,0.0,10500.0,1750.0,2026-05-05,10,2026-05-15,0
+PAID_SOCIAL,Lead Nativo | Misto | B2C - 1,AD49 [IU] B2C,3,1,33.3,2,66.7,0,0.0,4997.0,1665.67,2025-05-09,371,2025-05-06,374
+PAID_SOCIAL,Lead Nativo | Misto | B2C | Melhores Criativos,AD24 [IU] B2C,3,1,33.3,2,66.7,0,0.0,4997.0,1665.67,2026-03-11,65,2025-06-26,323
+PAID_SOCIAL,lal reuniões b2c | hubspot (novo form),(sem utm_content),15,3,20.0,10,66.7,2,13.3,23997.0,1599.8,2026-02-26,78,2026-04-16,29
+PAID_SOCIAL,lead_nativo_tbw,form_condicional,39,6,15.4,8,20.5,25,64.1,59497.0,1525.56,2026-05-14,1,2026-05-15,0
+PAID_SOCIAL,b2c_mensagem,AD07 - TBW,30,5,16.7,25,83.3,0,0.0,45297.0,1509.9,2026-04-29,16,2025-09-01,256
+PAID_SOCIAL,120242827865180104,120242837101790104,1,1,100.0,0,0.0,0,0.0,1500.0,1500.0,2026-04-01,44,2026-04-07,38
+PAID_SOCIAL,pmax,120243106660220104,1,1,100.0,0,0.0,0,0.0,1500.0,1500.0,2026-04-13,32,2026-04-23,22
+PAID_SOCIAL,Lead Nativo | Misto | B2C | Melhores Criativos,AD60 [VD] B2C,25,4,16.0,21,84.0,0,0.0,31997.0,1279.88,2026-03-11,65,2025-10-22,205
+PAID_SOCIAL,(sem utm_campaign),(sem utm_content),914,127,13.9,760,83.2,27,3.0,1126546.15,1232.55,2026-05-13,2,2026-06-03,-19
+PAID_SOCIAL,b2c palestrantes | lead nativo,(sem utm_content),58,7,12.1,50,86.2,1,1.7,70997.0,1224.09,2026-03-11,65,2026-03-16,60
+PAID_SOCIAL,Lead Nativo | Misto | B2C | Melhores Criativos,AD46 [IU] B2C,10,1,10.0,9,90.0,0,0.0,11000.0,1100.0,2025-05-19,361,2025-06-20,329
+PAID_SOCIAL,b2c_mensagem,AD09 - TBW,12,1,8.3,11,91.7,0,0.0,12000.0,1000.0,2025-05-20,360,2025-10-23,204
+PAID_SOCIAL,120243052766710104,120243106586910104,1,1,100.0,0,0.0,0,0.0,977.0,977.0,2026-04-15,30,2026-04-16,29
+PAID_SOCIAL,lead nativo | misto | b2c - 3,(sem utm_content),10,2,20.0,7,70.0,1,10.0,8997.0,899.7,2026-04-15,30,2026-04-20,25
+PAID_SOCIAL,Lead Nativo | Misto | B2C - 2,AD60 [VD] B2C,14,2,14.3,12,85.7,0,0.0,9994.0,713.86,2026-04-20,25,2025-07-02,317
+PAID_SOCIAL,b2c - lal qualificados (novo),(sem utm_content),3,1,33.3,2,66.7,0,0.0,1997.0,665.67,2026-04-01,44,2026-04-08,37
+PAID_SOCIAL,lead_nativo,(sem utm_content),3,1,33.3,2,66.7,0,0.0,1997.0,665.67,2026-02-13,91,2026-03-17,59
+PAID_SOCIAL,⚫ LP | TBW LeadScore,H040,3,1,33.3,2,66.7,0,0.0,1997.0,665.67,2026-05-04,11,2026-05-13,2
+PAID_SOCIAL,cargos palestrantes (novo form),(sem utm_content),69,5,7.2,57,82.6,7,10.1,44997.0,652.13,2026-05-11,4,2026-03-23,53
+PAID_SOCIAL,b2c_mensagem,AD10 - TBW,25,4,16.0,21,84.0,0,0.0,14494.0,579.76,2026-03-10,67,2025-09-26,231
+PAID_SOCIAL,lead nativo | misto | b2c | melhores criativos,(sem utm_content),74,4,5.4,60,81.1,10,13.5,31997.0,432.39,2026-05-09,6,2026-04-30,15
+PAID_SOCIAL,competência palestra,(sem utm_content),8,1,12.5,7,87.5,0,0.0,2200.0,275.0,2026-03-10,66,2026-03-18,58
+PAID_SOCIAL,b2c_mensagem,AD08 - TBW,35,2,5.7,32,91.4,1,2.9,6997.0,199.91,2026-04-29,16,2026-02-13,91
+PAID_SOCIAL,b2c_mensagem,AD14 - TBW Online,19,0,0.0,18,94.7,1,5.3,0.0,0.0,2026-05-07,8,,
+PAID_SOCIAL,pmax,AD04 - TBW Online,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,the_best_week_mensagem,(sem utm_content),5,0,0.0,5,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,Lead Nativo | Frio | The Best Week - Único [AD02] — SP,AD02 [CS] The Best Week,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,Lead Nativo | Frio | The Best Week - Único [AD02] — RJ,AD02 [IU] The Best Week,2,0,0.0,2,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,Lead Nativo | Misto | The Best Week | Melhores Criativos,(sem utm_content),1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,Lead Nativo | Misto | B2C - 1,AD57 [IU] B2C,5,0,0.0,5,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,b2c_mensagem,AD05 - TBW,6,0,0.0,5,83.3,1,16.7,0.0,0.0,2025-05-07,373,,
+PAID_SOCIAL,Lead Nativo | Misto | B2C | Melhores Criativos,AD28 [IU] B2C,4,0,0.0,4,100.0,0,0.0,0.0,0.0,2026-01-06,129,,
+PAID_SOCIAL,b2c_mensagem,AD06 - TBW Online,4,0,0.0,4,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,Lead Nativo | Misto | B2C - 2,AD46 [IU] B2C,3,0,0.0,3,100.0,0,0.0,0.0,0.0,2025-05-12,368,,
+PAID_SOCIAL,Lead Nativo | Misto | B2C - 1,AD50 [IU] B2C,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,Lead Nativo | Misto | B2C | Melhores Criativos,AD47 [IU] B2C,4,0,0.0,4,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,Lead Nativo | Misto | B2C - 1,AD62 [VD] B2C,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,Lead Nativo | Misto | B2C - 2,AD47 [IU] B2C,8,0,0.0,8,100.0,0,0.0,0.0,0.0,2026-03-13,63,,
+PAID_SOCIAL,Lead Nativo | Misto | B2C | Melhores Criativos,AD29 [IU] B2C,7,0,0.0,6,85.7,1,14.3,0.0,0.0,2025-05-05,375,,
+PAID_SOCIAL,Lead Nativo | Misto | B2C | Melhores Criativos,AD11 [IU] Palestrante seu nome merece crescer,2,0,0.0,2,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,b2c_mensagem,AD12 - TBW,2,0,0.0,2,100.0,0,0.0,0.0,0.0,2025-05-13,367,,
+PAID_SOCIAL,pagina_links,(sem utm_content),1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,Lead Nativo | Misto | B2C | Melhores Criativos,AD43 [IU] B2C,3,0,0.0,3,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,Lead Nativo | Misto | B2C - 1,AD12 [IU] Melhores Palcos do Mundo,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,Lead Nativo | Frio | The Best Week - Único [AD02],AD02 [CS] The Best Week,13,0,0.0,13,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,Lead Nativo | Frio | The Best Week | Fábrica de Criativos,AD05 [IU] Já imaginou uma plateia emocionada [V1],1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,Lead Nativo | Misto | The Best Week | Fábrica de Criativos,(sem utm_content),1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,Lead Nativo | Misto | B2C | Melhores Criativos,AD39 [IU] B2C,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,Lead Nativo | Frio | The Best Week,AD02 [CS] The Best Week,4,0,0.0,4,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,Lead Nativo | Frio | The Best Week (Melhores Criativos),AD01 [IU] The Best Week,16,0,0.0,16,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,Lead Nativo | Misto | B2C - 1,AD51 [IU] B2C,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,Lead Nativo | Misto | B2C - 1,AD63 [VD] B2C,3,0,0.0,3,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,Lead Nativo | Misto | B2C | Melhores Criativos,AD32 [IU] B2C,3,0,0.0,2,66.7,1,33.3,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,Lead Nativo | Misto | B2C - 1,AD06 [IU] Aprenda a se posicionar como uma autoridade [V1],2,0,0.0,2,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,pmax,AD02 [VD] PraVocê,1,1,100.0,0,0.0,0,0.0,0.0,0.0,2025-04-30,380,2025-10-16,211
+PAID_SOCIAL,b2c_mensagem,AD03 - TBW,6,0,0.0,6,100.0,0,0.0,0.0,0.0,2025-05-20,360,,
+PAID_SOCIAL,Conversão LP | Misto | The Best Week,AD07 [IU] Descubra como contar historias [V1] Foto Phil,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,Lead Nativo | Misto | The Best Week | Fábrica de Criativos,AD06 [IU] Aprenda a se posicionar como uma autoridade [V1],1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,Lead Nativo | Frio | The Best Week | Fábrica de Criativos,AD07 [IU] Descubra como contar historias [V1] Foto Phil,5,0,0.0,5,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,Lead Nativo | Frio | The Best Week | Fábrica de Criativos — ADV+,AD11 [IU] Palestrante seu nome merece crescer,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,Lead Nativo | Frio | The Best Week (Melhores Criativos) - Único [AD01],AD01 [IU] The Best Week,16,0,0.0,16,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,Lead Nativo | Frio | The Best Week - Único [AD02] — MG,AD02 [IU] The Best Week,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,Lead Nativo | Frio | The Best Week - Único [AD02] — RS,AD02 [CS] The Best Week,3,0,0.0,3,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,Lead Nativo | Frio | The Best Week | Fábrica de Criativos,AD13 [IU] Descubra os segredos dos palestrantes,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,Lead Nativo | Frio | The Best Week - Único [AD02] — SP,AD02 [IU] The Best Week,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,Lead Nativo | Frio | The Best Week - Único [AD02],AD02 [IU] The Best Week,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,Lead Nativo | Frio | The Best Week,AD01 [IU] The Best Week,3,0,0.0,3,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,Lead Nativo | Misto | B2C - 2,AD30 [IU] B2C,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,institucional,(sem utm_content),1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,Lead Nativo | Misto | B2C | Melhores Criativos,AD03 [IU] Sua palestra inspira [V1],1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,Lead Nativo | Misto | B2C | Melhores Criativos,AD33 [IU] B2C,4,0,0.0,4,100.0,0,0.0,0.0,0.0,2025-05-15,365,,
+PAID_SOCIAL,b2c_mensagem,AD02 - TBW Online,2,0,0.0,2,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,b2c_mensagem,AD02 - TBW | Teste Form,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,Lead Nativo | Misto | B2C - 1,AD03 [IU] Sua palestra inspira [V1],1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+PAID_SOCIAL,Lead Nativo | Misto | B2C - 2,AD64 [VD] B2C,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-05-05,375,,
+PAID_SOCIAL,Lead Nativo | Misto | B2C - 1,AD48 [IU] B2C,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-05-11,369,,
+PAID_SOCIAL,Lead Nativo | Misto | B2C - 2,AD66 [VD] B2C,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-05-13,367,,
+PAID_SOCIAL,Lead Nativo | Misto | B2C - 2,AD43 [IU] B2C,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-05-17,363,,
+PAID_SOCIAL,Lead Nativo | Misto | B2C - 1,AD71 [IU] B2C,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-05-18,362,,
+PAID_SOCIAL,b2c_mensagem,AD15 - TBW,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-05-21,359,,
+PAID_SOCIAL,Lead Nativo | Misto | B2C | Melhores Criativos,AD63 [VD] B2C,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-05-23,357,,
+PAID_SOCIAL,Lead Nativo | Misto | B2C | Melhores Criativos,AD76 [IU] B2C,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-06-30,319,,
+PAID_SOCIAL,palestrante_geral_teste,site,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-08-11,277,,
+PAID_SOCIAL,Lead Nativo | Misto | B2C - 1,AD81 [VD] B2C,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-09-23,235,,
+PAID_SOCIAL,(sem utm_campaign),373525045,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-10-01,226,,
+PAID_SOCIAL,Conversão LP | The Best Speaker | Página Cadastro,AD30 [VD] The Best Speaker,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-11-25,171,,
+PAID_SOCIAL,Lead Nativo | Misto | B2C | Melhores Criativos,AE137 [VD] B2C,2,0,0.0,2,100.0,0,0.0,0.0,0.0,2025-11-26,170,,
+PAID_SOCIAL,Lead Nativo | Misto | B2C | Melhores Criativos,AE115 [IU] B2C,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-11-27,169,,
+PAID_SOCIAL,lead nativo | misto | b2c - 2,(sem utm_content),12,0,0.0,11,91.7,1,8.3,0.0,0.0,2026-04-28,17,,
+PAID_SOCIAL,lead nativo | misto | b2c | melhores criativos,AD49 [IU] B2C,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-01-07,128,,
+PAID_SOCIAL,lal qualificados b2c | hubspot (novo form),(sem utm_content),3,0,0.0,3,100.0,0,0.0,0.0,0.0,2026-03-05,71,,
+PAID_SOCIAL,pmax,AE140 [VD] B2C,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-01-08,127,,
+PAID_SOCIAL,meta / remarketing | 30-60 | ambos | brasil,(sem utm_content),1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-01-08,127,,
+PAID_SOCIAL,conversão lp | the best speaker,AD19 [IU] The Best Speaker,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-01-09,126,,
+PAID_SOCIAL,palestrantes - teste investimento 2,(sem utm_content),1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-01-15,120,,
+PAID_SOCIAL,b2c palestrantes | lead nativo | melhores criativos,(sem utm_content),28,0,0.0,27,96.4,1,3.6,0.0,0.0,2026-03-06,70,,
+PAID_SOCIAL,lead nativo | misto | b2c | melhores criativos,AE140 [VD] B2C,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-02-02,102,,
+PAID_SOCIAL,236651,(sem utm_content),1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-02-04,100,,
+PAID_SOCIAL,lal lead nativo,(sem utm_content),4,0,0.0,3,75.0,1,25.0,0.0,0.0,2026-05-10,5,,
+PAID_SOCIAL,Lead Nativo | Misto | B2C - 3,AE146 [IU] B2C,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-02-11,93,,
+PAID_SOCIAL,competência palestra - teste investimento,(sem utm_content),1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-02-25,79,,
+PAID_SOCIAL,lal propostas b2c,(sem utm_content),3,0,0.0,2,66.7,1,33.3,0.0,0.0,2026-05-12,3,,
+PAID_SOCIAL,the-best-weekend,(sem utm_content),1,0,0.0,0,0.0,1,100.0,0.0,0.0,2026-02-27,77,,
+PAID_SOCIAL,B2C Palestrantes | Lead Nativo | Melhores Criativos,AE140 [VD] B2C,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-02-27,77,,
+PAID_SOCIAL,lead nativo | the best speaker,(sem utm_content),2,0,0.0,2,100.0,0,0.0,0.0,0.0,2026-03-06,70,,
+PAID_SOCIAL,palestrante_dinamico_nova,palestrante_dinamico_nova,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-03-02,74,,
+PAID_SOCIAL,🟠 Lead Nativo | Criativos Validados (Nova),G018,2,0,0.0,2,100.0,0,0.0,0.0,0.0,2026-03-10,66,,
+PAID_SOCIAL,🟠 Lead Nativo | Criativos Validados (Nova),G001,3,0,0.0,2,66.7,1,33.3,0.0,0.0,2026-03-10,66,,
+PAID_SOCIAL,institucional_exata,site,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-03-09,67,,
+PAID_SOCIAL,🟠 Lead Nativo | Criativos Validados (Nova),G007,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-03-10,66,,
+PAID_SOCIAL,120243052766710104,120243106688790104,3,0,0.0,3,100.0,0,0.0,0.0,0.0,2026-03-19,57,,
+PAID_SOCIAL,120242827865180104,120242835608980104,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-03-11,65,,
+PAID_SOCIAL,120242827865180104,120242836489080104,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-03-11,65,,
+PAID_SOCIAL,lead nativo | misto | b2c | melhores criativos,AD28 [IU] B2C,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-03-11,65,,
+PAID_SOCIAL,🔵 LP TBW | Criativos Validados (Nova),G003,4,0,0.0,3,75.0,1,25.0,0.0,0.0,2026-04-09,36,,
+PAID_SOCIAL,lal qualificados b2c,AD10 - TBW,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-03-11,65,,
+PAID_SOCIAL,lal propostas b2c,AD10 - TBW,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-03-11,65,,
+PAID_SOCIAL,b2c - lal propostas (antigo),(sem utm_content),2,0,0.0,1,50.0,1,50.0,0.0,0.0,2026-05-10,5,,
+PAID_SOCIAL,120242827865180104,120242838093400104,1,0,0.0,0,0.0,1,100.0,0.0,0.0,2026-03-12,64,,
+PAID_SOCIAL,🔵 LP TBW | Criativos Validados (Nova),G014,2,0,0.0,2,100.0,0,0.0,0.0,0.0,2026-03-17,59,,
+PAID_SOCIAL,🔵 LP TBW | Criativos Validados (Nova),G018,2,0,0.0,1,50.0,1,50.0,0.0,0.0,2026-03-17,59,,
+PAID_SOCIAL,120242827865180104,120242837158820104,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-03-13,63,,
+PAID_SOCIAL,120242827865180104,120242835561380104,2,0,0.0,1,50.0,1,50.0,0.0,0.0,2026-03-17,59,,
+PAID_SOCIAL,120243052766710104,120243200806920104,2,0,0.0,2,100.0,0,0.0,0.0,0.0,2026-03-18,58,,
+PAID_SOCIAL,120242827865180104,120242837216190104,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-03-17,59,,
+PAID_SOCIAL,120242827865180104,120242837216230104,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-03-18,58,,
+PAID_SOCIAL,🔵 LP TBW | Melhores Criativos (Nova),G014,1,0,0.0,0,0.0,1,100.0,0.0,0.0,2026-03-18,58,,
+PAID_SOCIAL,120242827865180104,120242838093190104,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-03-18,58,,
+PAID_SOCIAL,120243052766710104,120243374224790104,2,0,0.0,2,100.0,0,0.0,0.0,0.0,2026-04-01,44,,
+PAID_SOCIAL,120242827865180104,120242838093390104,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-03-24,52,,
+PAID_SOCIAL,🔵 LP TBW | Criativos Validados (Nova),G004,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-03-24,52,,
+PAID_SOCIAL,120242827865180104,120242838093250104,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-03-24,52,,
+PAID_SOCIAL,🔵 LP TBW | Criativos Validados (Nova),G025,1,0,0.0,0,0.0,1,100.0,0.0,0.0,2026-03-25,51,,
+PAID_SOCIAL,🔵 LP TBW | Criativos Validados (Nova),G006,2,0,0.0,2,100.0,0,0.0,0.0,0.0,2026-04-08,38,,
+PAID_SOCIAL,120243052766710104,120243106614910104,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-03-25,51,,
+PAID_SOCIAL,120242827865180104,120242836021270104,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-03-25,51,,
+PAID_SOCIAL,120243052766710104,120243200831480104,4,0,0.0,3,75.0,1,25.0,0.0,0.0,2026-04-09,36,,
+PAID_SOCIAL,120243052766710104,120243151474410104,2,0,0.0,2,100.0,0,0.0,0.0,0.0,2026-04-07,38,,
+PAID_SOCIAL,120242827865180104,120242837158570104,3,0,0.0,2,66.7,1,33.3,0.0,0.0,2026-03-27,49,,
+PAID_SOCIAL,🔵 LP TBW | Criativos Validados (Nova),G023,2,0,0.0,2,100.0,0,0.0,0.0,0.0,2026-03-27,49,,
+PAID_SOCIAL,pmax,G033,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-03-31,45,,
+PAID_SOCIAL,120243052766710104,120243580653190104,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-03-31,45,,
+PAID_SOCIAL,120243052766710104,120243931372260104,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-04-01,44,,
+PAID_SOCIAL,🔵 LP TBW | Melhores Criativos (Nova),G006,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-04-01,44,,
+PAID_SOCIAL,120243052766710104,120243106651700104,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-04-02,43,,
+PAID_SOCIAL,120242827865180104,120242837101820104,2,0,0.0,1,50.0,1,50.0,0.0,0.0,2026-04-08,37,,
+PAID_SOCIAL,🔵 LP TBW | Melhores Criativos (Nova),G008,1,0,0.0,0,0.0,1,100.0,0.0,0.0,2026-04-07,38,,
+PAID_SOCIAL,120242827865180104,120242837158730104,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-04-07,38,,
+PAID_SOCIAL,120242827865180104,120242838093260104,2,0,0.0,1,50.0,1,50.0,0.0,0.0,2026-04-09,36,,
+PAID_SOCIAL,search_tbweekend,ad1,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-04-08,37,,
+PAID_SOCIAL,120242827865180104,120242837101650104,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-04-09,36,,
+PAID_SOCIAL,lead_nativo,lp,4,0,0.0,1,25.0,3,75.0,0.0,0.0,2026-05-12,3,,
+PAID_SOCIAL,b2c - lal base live,(sem utm_content),1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-04-10,35,,
+PAID_SOCIAL,⚫ LP | TBW LeadScore,H038,2,0,0.0,2,100.0,0,0.0,0.0,0.0,2026-05-08,7,,
+PAID_SOCIAL,120243052766710104,120243931328310104,1,0,0.0,0,0.0,1,100.0,0.0,0.0,2026-04-16,29,,
+PAID_SOCIAL,⚫ LP | TBW LeadScore,H043,2,0,0.0,0,0.0,2,100.0,0.0,0.0,2026-05-13,2,,
+PAID_SOCIAL,🟣Lead Nativo | TBW LeadScore | Melhores Criativos,H003,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-04-24,21,,
+PAID_SOCIAL,🔵 LP TBW | Melhores Criativos (Nova),G023,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-04-25,20,,
+PAID_SOCIAL,⚫ LP | TBW LeadScore,H042,2,0,0.0,1,50.0,1,50.0,0.0,0.0,2026-05-07,8,,
+PAID_SOCIAL,⚫ LP | TBW LeadScore | Melhores Criativos,H037,3,0,0.0,0,0.0,3,100.0,0.0,0.0,2026-05-13,2,,
+PAID_SOCIAL,⚫ LP | TBW LeadScore | Melhores Criativos,H011,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-05-05,10,,
+PAID_SOCIAL,⚫ LP | TBW LeadScore,H033,1,0,0.0,0,0.0,1,100.0,0.0,0.0,2026-05-07,8,,
+PAID_SOCIAL,⚫ LP | TBW LeadScore | Melhores Criativos,H003,1,0,0.0,0,0.0,1,100.0,0.0,0.0,2026-05-09,6,,
+PAID_SOCIAL,⚫ LP | TBW LeadScore | Melhores Criativos,H009,1,0,0.0,0,0.0,1,100.0,0.0,0.0,2026-05-10,5,,
+PAID_SOCIAL,⚫ LP | TBW LeadScore,H004,1,1,100.0,0,0.0,0,0.0,0.0,0.0,2026-05-10,5,2026-05-15,0
+PAID_SOCIAL,🟣Lead Nativo | TBW LeadScore,H043,1,0,0.0,0,0.0,1,100.0,0.0,0.0,2026-05-12,3,,
+PAID_SOCIAL,⚫ LP | TBW LeadScore,H001,1,0,0.0,0,0.0,1,100.0,0.0,0.0,2026-05-14,1,,
+REFERRALS,the-best-weekend,link-bio,1,1,100.0,0,0.0,0,0.0,10000.0,10000.0,2025-11-30,166,2025-12-31,135
+REFERRALS,(sem utm_campaign),(sem utm_content),7,2,28.6,5,71.4,0,0.0,4997.0,713.86,2025-09-25,232,2026-04-06,39
+REFERRALS,pmax,(sem utm_content),8,1,12.5,7,87.5,0,0.0,997.0,124.62,2026-03-24,52,2026-03-31,45
+REFERRALS,pagina_links,(sem utm_content),1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-05-19,361,,
+REFERRALS,palestrantes.profissionaissa.com.br/,(sem utm_content),2,0,0.0,2,100.0,0,0.0,0.0,0.0,2026-04-29,16,,
+SOCIAL_MEDIA,palestra-lembrada-caixa-de-perguntas,story-120925,1,1,100.0,0,0.0,0,0.0,12000.0,12000.0,2025-09-13,244,2025-09-28,229
+SOCIAL_MEDIA,🔵 LP TBW | Teste de Criativos (Nova),G028,1,1,100.0,0,0.0,0,0.0,12000.0,12000.0,2026-03-18,58,2026-03-30,46
+SOCIAL_MEDIA,the-best-weekend,(sem utm_content),1,1,100.0,0,0.0,0,0.0,10000.0,10000.0,2026-01-15,120,2026-01-31,104
+SOCIAL_MEDIA,meta / social,(sem utm_content),3,2,66.7,0,0.0,1,33.3,19500.0,6500.0,2026-02-10,94,2026-01-29,106
+SOCIAL_MEDIA,(sem utm_campaign),(sem utm_content),16,6,37.5,7,43.8,3,18.8,57250.0,3578.12,2026-05-05,10,2025-09-01,256
+SOCIAL_MEDIA,the-best-weekend,link-bio,5,2,40.0,0,0.0,3,60.0,4197.0,839.4,2026-05-13,2,2026-05-06,9
+SOCIAL_MEDIA,link-tree,bio,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-04-30,380,,
+SOCIAL_MEDIA,comofuncionacuradoriapsa,story-260825,2,0,0.0,2,100.0,0,0.0,0.0,0.0,2025-12-23,143,,
+SOCIAL_MEDIA,Lead Nativo | Misto | B2C - 3,AE121 [VD] B2C,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2025-12-11,156,,
+SOCIAL_MEDIA,🔵 LP TBW | Criativos Validados (Nova),G009,1,0,0.0,0,0.0,1,100.0,0.0,0.0,2026-03-19,57,,
+SOCIAL_MEDIA,⚫ LP | TBW LeadScore,H014,1,0,0.0,1,100.0,0,0.0,0.0,0.0,2026-04-10,35,,
+SOCIAL_MEDIA,site-psa,link-bio,3,0,0.0,1,33.3,2,66.7,0.0,0.0,2026-04-29,16,,
+SOCIAL_MEDIA,the-best-weekend,destaque,1,0,0.0,0,0.0,1,100.0,0.0,0.0,2026-04-28,17,,
+SOCIAL_MEDIA,⚫ LP | TBW LeadScore,H044,1,0,0.0,0,0.0,1,100.0,0.0,0.0,2026-05-04,11,,
+SOCIAL_MEDIA,⚫ LP | TBW LeadScore | Melhores Criativos,H037,1,0,0.0,0,0.0,1,100.0,0.0,0.0,2026-05-07,8,,
